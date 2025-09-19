@@ -1,19 +1,20 @@
-# 🏥 Clinic Website
+# 🦷 Dental Clinic Website
 
-A simple clinic appointment booking website.  
-Built with **HTML, CSS, and JavaScript** — and hosted on **GitHub Pages**.
+A professional website for **Dr. Ebrahim Seada**, designed to provide patients with an easy and modern way to learn about the clinic and book appointments online.  
 
-## 🚀 Live Demo
-👉 [View Website](https://mohammedebrahimseada.github.io/Clinic-Website/)
+## 🌐 Live Demo
+👉 [Visit the Website](https://mohammedebrahimseada.github.io/Clinic-Website/)
 
-## 📌 Features
-- 📅 Book an appointment easily  
-- 📧 Input patient details (Name, Email, Phone)  
-- ⏰ Select preferred date & time  
-- 📝 Add additional notes  
+## 📖 Pages
+- **Home** – Overview and welcome message  
+- **About** – Information about Dr. Ebrahim Seada and the clinic  
+- **Services** – List of dental services provided  
+- **Booking** – Appointment booking form  
+- **Contact** – Contact details and location  
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 - HTML5  
 - CSS3  
 - JavaScript  
+
 
